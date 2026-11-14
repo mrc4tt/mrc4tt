@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/mrc4tt">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=F7931E&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mikkel+aka+Miksen+%F0%9F%91%8B;SysOps+%40+FSHOST.me;CS2+server+modding;Reverse+engineering+CS2+binaries;I+build+whatever+I+feel+like" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=F7931E&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mikkel+aka+Miksen+%F0%9F%91%8B;SysOps+%40+FSHOST.me;CS2+server+modding;Reverse+engineering;I+build+whatever+I+feel+like" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
