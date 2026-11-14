@@ -29,13 +29,6 @@
 
 I also keep FSHOST builds of plugins like retakes, instadefuse, prefire practice and menus. [All repos](https://github.com/mrc4tt?tab=repositories)
 
-### Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mrc4tt&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrc4tt&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
 ### Discord
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/zuQN3U2ZEh)
