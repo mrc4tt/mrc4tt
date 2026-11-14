@@ -13,7 +13,7 @@
 
 - SysOps at [FSHOST.me](https://fshost.me)
 - Maintain my own fork of [CounterStrikeSharp](https://github.com/mrc4tt/CounterStrikeSharp) and write CS2 plugins
-- Fix gamedata signatures in Ghidra and IDA when CS2 updates break them
+- Fix gamedata signatures in IDA Pro when CS2 updates break them
 - Game server stuff: panels, Pterodactyl, DDoS protection, TeamSpeak
 - Started out with CoD2, CoD4, HLDS and SourceMod
 
