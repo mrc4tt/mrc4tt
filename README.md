@@ -9,33 +9,33 @@
 
 ---
 
-### 🛠️ What I do
+### What I do
 
-- 🎯 Maintain a fork of **[CounterStrikeSharp](https://github.com/mrc4tt/CounterStrikeSharp)** and write CS2 server plugins
-- 🔬 Reverse engineer stripped CS2 server binaries (`server.so` / `server.dll`) with Ghidra & IDA to keep gamedata signatures alive after updates
-- 🏢 SysOps at **[FSHOST.me](https://fshost.me)**
-- 🖥️ Build and run game server infrastructure — panels, Pterodactyl/Wings tweaks, DDoS filtering, TeamSpeak tooling
-- 🎮 Old-school roots: CoD2/CoD4, HLDS, SourceMod
+- SysOps at [FSHOST.me](https://fshost.me)
+- Maintain my own fork of [CounterStrikeSharp](https://github.com/mrc4tt/CounterStrikeSharp) and write CS2 plugins
+- Fix gamedata signatures in Ghidra and IDA when CS2 updates break them
+- Game server stuff: panels, Pterodactyl, DDoS protection, TeamSpeak
+- Started out with CoD2, CoD4, HLDS and SourceMod
 
-### 📌 Maintained forks
+### Forks I maintain
 
 | Project | What it is |
 |---|---|
 | [**CounterStrikeSharp**](https://github.com/mrc4tt/CounterStrikeSharp) | Server-side C# modding framework for CS2 |
-| [**MatchZy**](https://github.com/mrc4tt/MatchZy) | Practice / pugs / scrims / matches with Get5 support |
+| [**MatchZy**](https://github.com/mrc4tt/MatchZy) | Pracc, pugs, scrims and matches with Get5 support |
 | [**CS2-SimpleAdmin**](https://github.com/mrc4tt/CS2-SimpleAdmin) | Admin management for CS2 servers |
-| [**cs2-WeaponPaints**](https://github.com/mrc4tt/cs2-WeaponPaints) | Skins, knives & gloves for CS2 servers |
-| [**metamod-source**](https://github.com/mrc4tt/metamod-source) | C++ plugin environment & detour library for Source 2 |
+| [**cs2-WeaponPaints**](https://github.com/mrc4tt/cs2-WeaponPaints) | Skins, knives and gloves for CS2 servers |
+| [**metamod-source**](https://github.com/mrc4tt/metamod-source) | C++ plugin environment and detour library for Source 2 |
 
-Plus a pile of FSHOST builds of popular CS2 plugins: retakes, instadefuse, prefire practice, menus & more → [see all repos](https://github.com/mrc4tt?tab=repositories)
+I also keep FSHOST builds of plugins like retakes, instadefuse, prefire practice and menus. [All repos](https://github.com/mrc4tt?tab=repositories)
 
-### 📊 Stats
+### Stats
 
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=mrc4tt&show_icons=true&hide_border=true&theme=transparent" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrc4tt&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
-### 📫 Reach me
+### Discord
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/zuQN3U2ZEh)
